@@ -1,0 +1,6 @@
+07:27:01: Audacity 3.2.2
+07:27:01: sqlite3 message: (1) no such table: project in "SELECT 1 FROM project LIMIT 1;"
+07:27:01: Error: Failed to load shared library 'avformat-59.dll' (error 126: The specified module could not be found.)
+07:27:01: Error: Failed to load shared library 'avformat-58.dll' (error 126: The specified module could not be found.)
+07:27:01: Error: Failed to load shared library 'avformat-57.dll' (error 126: The specified module could not be found.)
+07:27:01: Error: Failed to load shared library 'avformat-55.dll' (error 126: The specified module could not be found.)
